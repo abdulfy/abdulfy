@@ -1,4 +1,4 @@
-# 💫👋 Hi, I'm Abdulfetah Adem
+# 💫👋  Abdulfetah Adem
 Senior Software Engineer | Full-Stack Developer | AI & LLM Engineer
 - 🔭 **I'm currently working on:** Building scalable software applications, AI-powered solutions, and LLM inference optimization systems.<br>- 🤝 **I'm looking to collaborate on:** Open-source projects involving Python, full-stack development, machine learning, LLMs, and AI evaluation.<br>- 🌱 **I'm looking for help with:** Advanced AI engineering, GPU optimization, distributed systems, and scalable software architecture.<br>- 📚 **I'm currently learning:** LLM inference optimization, CUDA programming, model quantization, and efficient AI deployment.<br>- 💬 **Ask me about:** Python, React, Node.js, REST APIs, PostgreSQL, software architecture, machine learning, and AI model evaluation.<br>- ⚡ **Fun fact:** I enjoy turning complex engineering problems into practical solutions and building benchmarks that challenge AI-generated code.
 
